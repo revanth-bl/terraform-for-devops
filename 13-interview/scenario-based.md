@@ -496,3 +496,4 @@ Mastering these scenarios will prepare you for the majority of Terraform intervi
 1
 2
 3
+4
