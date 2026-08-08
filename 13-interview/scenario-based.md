@@ -491,4 +491,4 @@ Key topics include:
 - `terraform plan`
 - `terraform apply`
 
-Mastering these scenarios will prepare you for the majority of Terraform interview questions asked in DevOps, Cloud Engineer, and Site Reliability Engineer (SRE) roles.
+Mastering these scenarios will prepare you for the majority of Terraform interview questions asked in DevOps, Cloud Engineer, and Site Reliability Engineer (SRE) roles. 1
